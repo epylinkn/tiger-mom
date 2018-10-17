@@ -1,0 +1,31 @@
+html {
+  text-align: center;
+  background: #0047AB;
+}
+
+.App {
+
+}
+
+.grandma {
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -70%;
+}
+
+.App-story {
+  color: white;
+  margin: 5px 5% 0 40%;
+  font-size: 26px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.coin {
+  margin: 0;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  width: 10%;
+}
